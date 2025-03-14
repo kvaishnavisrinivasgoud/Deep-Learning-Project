@@ -2,7 +2,7 @@
 
 Install Required Libraries:
 
-    -Make sure you have TensorFlow installed. You can install it using pip:
+-Make sure you have TensorFlow installed. You can install it using pip:
 
               pip install tensorflow matplotlib
 
