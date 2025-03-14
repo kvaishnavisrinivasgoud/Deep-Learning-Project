@@ -18,18 +18,24 @@ Output:
 
 
 
-Example Results:
+Example Results
 
--Test Accuracy: ~70-75% (can be improved with more epochs, data augmentation, or a deeper model).
+1.Test Accuracy: ~68-70% (may vary slightly due to random initialization).
 
--Visualizations: Graphs for accuracy/loss and a confusion matrix.
+2.Training Accuracy: ~75% (higher than test accuracy, indicating some overfitting).
 
-This is a basic implementation. You can improve the model by:
+3.Visualizations: Graphs for accuracy/loss and a confusion matrix.
 
-  1.Adding data augmentation.
 
-  2.Using a deeper architecture (e.g., ResNet, VGG).
 
-  3.Training for more epochs.
+Improvements:
 
-  4.Using transfer learning with a pre-trained model              
+-To improve the results:
+
+1.Data Augmentation: Apply transformations like rotation, flipping, and cropping to the training data.
+
+2.Deeper Model: Use a more complex architecture like ResNet or VGG.
+
+3.Regularization: Add dropout layers or L2 regularization to reduce overfitting.
+
+4.More Epochs: Train for more epochs (e.g., 20-30).
