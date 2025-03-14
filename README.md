@@ -1,12 +1,14 @@
 # Deep-Learning-Project
 
 Install Required Libraries:
+
     -Make sure you have TensorFlow installed. You can install it using pip:
 
               pip install tensorflow matplotlib
 
 
 Output:
+
 1.The model will train for 10 epochs and display the training/validation accuracy and loss curves.
 
 2.A confusion matrix will show how well the model performs for each class.
