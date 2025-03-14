@@ -7,6 +7,7 @@ Install Required Libraries:
               pip install tensorflow matplotlib
 
 
+
 Output:
 
 1.The model will train for 10 epochs and display the training/validation accuracy and loss curves.
@@ -14,6 +15,8 @@ Output:
 2.A confusion matrix will show how well the model performs for each class.
 
 3.The model will be saved as cifar10_cnn_model.h5.
+
+
 
 Example Results:
 
