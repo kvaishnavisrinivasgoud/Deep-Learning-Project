@@ -1,6 +1,6 @@
 # Deep-Learning-Project
 
-Install Required Libraries:
+*Install Required Libraries:
 
 -Make sure you have TensorFlow installed. You can install it using pip:
 
@@ -8,7 +8,7 @@ Install Required Libraries:
 
 
 
-Output:
+*Output:
 
 1.The model will train for 10 epochs and display the training/validation accuracy and loss curves.
 
@@ -18,7 +18,7 @@ Output:
 
 
 
-Example Results
+*Example Results
 
 1.Test Accuracy: ~68-70% (may vary slightly due to random initialization).
 
@@ -28,7 +28,7 @@ Example Results
 
 
 
-Improvements:
+*Improvements:
 
 -To improve the results:
 
