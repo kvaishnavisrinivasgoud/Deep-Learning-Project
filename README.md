@@ -16,6 +16,7 @@
 
 3.The model will be saved as cifar10_cnn_model.h5.
 
+   https://github.com/kvaishnavisrinivasgoud/Deep-Learning-Project/blob/main/Output.py
 
 
 ## Example Results
