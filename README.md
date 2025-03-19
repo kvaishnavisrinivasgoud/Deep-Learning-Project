@@ -1,5 +1,17 @@
 # Deep-Learning-Project
 
+*COMPANY* : CODETECH IT SOLUTIONS
+
+*NAME* : K.VAISHNAVI
+
+*INTERN ID* : CT08VYQ
+
+*DOMAIN* : DATA SCIENCE
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANOTOSH
+
 ## Install Required Libraries:
 
 -Make sure you have TensorFlow installed. You can install it using pip:
